@@ -1,0 +1,14 @@
+# Ignore the virtual environment folder and its contents
+Include/
+Lib/
+pyvenv.cfg
+Scripts/
+
+# Ignore other unnecessary files and folders
+*.pyc
+__pycache__/
+.DS_Store
+
+# Ignore specific IDE/editor files
+.idea/
+.vscode/
